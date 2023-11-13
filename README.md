@@ -7,7 +7,7 @@ Motivated by the high interest in developing with LLMs, we have created this new
 Happy Prompting!
 
 ---
-## Prompt Engineering for LLMs Course
+## Prompt Engineering for LLMs 
 
 Due to high demand, we've partnered with Maven to deliver a new [cohort-based course on Prompt Engineering for LLMs](https://maven.com/dair-ai/prompt-engineering-llms).
 
